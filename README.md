@@ -8,6 +8,8 @@ With the help of the study group, I was able to get as far as printing the main 
 
 ## Link to Git Hub Pages:
 
-
+https://aldwinlub.github.io/coding-quiz/
 
 ## Screenshots:
+
+![My coding quiz!](./codingquiz1.png)

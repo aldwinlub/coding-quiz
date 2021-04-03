@@ -65,7 +65,7 @@ function startCountDownTimer() {
             endQuiz();
         }
         timeLeft-=1;
-        timer.textContent = "Time left: " + timeLeft;
+        timer.textContent = "Your time: " + timeLeft;
     }, 1000);
 }
 
